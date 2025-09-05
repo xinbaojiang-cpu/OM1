@@ -1,0 +1,43 @@
+# Overview
+
+- Test OM1’s ASR in 2 or more languages.
+- Try easy, complex scenarios. Document performance.
+
+## Simple scenario
+
+**English**
+Google ASR works well in this scenario.
+
+**Mandarin**
+Google ASR doesn't work for mandarin. No response.
+
+## Complex scenario
+
+**English**
+Google ASR works in this scenario, but there is sports news in the background, which confuses the inputs of ASR.
+
+**Mandarin**
+n/a
+
+# Submit records
+
+Share one demo publicly on Twitter/X - https://x.com/bobjiang123/status/1963766302549631402
+
+Record a demo video and upload it on YouTube or drive.
+- ASR in simple/easy scenario: https://youtu.be/r_Jk-5lS3OU
+- ASR in complex scenario: https://youtu.be/YEFSO9n1T4U
+
+Submit your entry by commenting on this issue using the template below:
+
+🚀 PR Link: [Link to the PR]
+
+🎥 Demo Video: 
+- ASR in simple/easy scenario: https://youtu.be/r_Jk-5lS3OU
+- ASR in complex scenario: https://youtu.be/YEFSO9n1T4U
+
+📝 Notes : Description of your solution/demo
+I have tested Google ASR in English and Mandarin with simple/complex scenarios.
+foundings:
+
+- Google ASR doesn't work in mandarin, no any responses.
+- if complex scenarios with sports news, which could confuse ASR, (some voices/words could come into my words)
