@@ -29,7 +29,7 @@ Record a demo video and upload it on YouTube or drive.
 
 Submit your entry by commenting on this issue using the template below:
 
-🚀 PR Link: [Link to the PR]
+🚀 PR Link: https://github.com/OpenMind/OM1/pull/380
 
 🎥 Demo Video: 
 - ASR in simple/easy scenario: https://youtu.be/r_Jk-5lS3OU
